@@ -1,0 +1,4 @@
+C:\Users\Wesley\AppData\Local\Temporary Projects\MegaSena\bin\Debug\MegaSena.exe
+C:\Users\Wesley\AppData\Local\Temporary Projects\MegaSena\bin\Debug\MegaSena.pdb
+C:\Users\Wesley\AppData\Local\Temporary Projects\MegaSena\obj\x86\Debug\MegaSena.exe
+C:\Users\Wesley\AppData\Local\Temporary Projects\MegaSena\obj\x86\Debug\MegaSena.pdb

@@ -1,0 +1,8 @@
+C:\Users\Wesley\documents\visual studio 2010\Projects\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Wesley\documents\visual studio 2010\Projects\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Wesley\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\Lottery.exe
+C:\Users\Wesley\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Debug\Lottery.pdb
+C:\git_repositorio\Lottery\Lottery\obj\x86\Debug\Lottery.exe
+C:\git_repositorio\Lottery\Lottery\obj\x86\Debug\Lottery.pdb
+C:\git_repositorio\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\git_repositorio\Lottery\Lottery\bin\Debug\Lottery.pdb

@@ -1,0 +1,4 @@
+C:\Users\Wesley\documents\visual studio 2010\Projects\Lottery\Lottery\bin\Release\Lottery.exe
+C:\Users\Wesley\documents\visual studio 2010\Projects\Lottery\Lottery\bin\Release\Lottery.pdb
+C:\Users\Wesley\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Release\Lottery.exe
+C:\Users\Wesley\documents\visual studio 2010\Projects\Lottery\Lottery\obj\x86\Release\Lottery.pdb
